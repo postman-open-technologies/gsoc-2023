@@ -4,6 +4,8 @@ This is a working area for Google Summer of Code 2023. Please use issues to ask 
 # Project Ideas
 Here is a list of current project ideas:
 
+The repo with [last year's ideas](https://github.com/postman-open-technologies/gsoc-2022/issues). can be found here: https://github.com/postman-open-technologies/gsoc-2022/. Feel free to copy old projects over to 2023, too.
+
 # Projects in our org that participate on a custom application
 - AsyncAPI - @AzeezElegbede
 - JSON Schema - @BenHutton
