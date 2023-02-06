@@ -19,3 +19,5 @@ Here is a list of our 2023 project ideas:
 
 # Org Application
 API Specifications form an essential foundation to the API ecosystem, securing standardization, governance and overall quality of products building on this ecosystem, as well as APIs that are products themselves. Postman applies to Google Summer of Code 2023 to represent and advocate for the Specifications that are not in a position to bring in sufficient resources for an individual application. Postman's Open Technologies as well as Postman's OSPO feel the strongest urge to raise our voice for the Open Source work that is being done in the API Specifications area, which is, similar to the API industry itself, still undervalued in its generally percepted impact on Tech. 
+
+Reach out to us on open@postman.com.
