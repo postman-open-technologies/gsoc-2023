@@ -14,4 +14,4 @@ Please complete a matching mandatory qualification task on the idea page (also l
 
 ## Contact
 
-If you have any questions or queries please [create an issue](https://github.com/postman-open-technologies/gsoc-2023/issues/new) on this project (**with a prefix GSoC 2023**) or send an email to us at open@postman.com.
+If you have any questions or queries please [create an issue](https://github.com/postman-open-technologies/gsoc-2023/issues/new) on this project (**with a prefix GSoC 2023**) or send an email to us at gsoc@postman.com.
