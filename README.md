@@ -3,6 +3,20 @@
 # Google Summer of Code 2023
 This is Postman's working area and list of project ideas for [Google Summer of Code 2023](https://summerofcode.withgoogle.com/). Please use [issues](https://github.com/postman-open-technologies/gsoc-2023/issues) and [discussions](https://github.com/postman-open-technologies/gsoc-2023/discussions) to comment on project ideas, ask questions and collaborate. Refer to the guidelines [here](./CONTRIBUTOR_GUIDANCE.md).
 
+## What is the timeline for GSoC 2023?
+[Full timeline](https://summerofcode.withgoogle.com/programs/2023)
+
+|Important events | Deadline|
+| ----- | ----- |
+| Organization Applications Open | January 23, 2023|
+| Organization Application Deadline | February 7, 2023 |
+| Organizations Announced | February 22, 2023 |
+| Potential GSoC contributors discuss application ideas with mentoring organizations | February 22 - March 20, 2023 |
+| GSoC contributor application period | March 20 - April 4, 2023 |
+| Accepted GSoC Contributor projects announced | May 4, 2023 |
+| Students work on their Google Summer of Code project | May 4, 2023 - NOvember 17, 2023|
+
+
 ## [Project Ideas](https://github.com/postman-open-technologies/gsoc-2023/issues?q=is%3Aissue+is%3Aopen+label%3Afinal+label%3Aideas)
 Here is a list of our 2023 project ideas:
 - [#9](https://github.com/postman-open-technologies/gsoc-2023/issues/9): **OpenAPI Componentizer**
