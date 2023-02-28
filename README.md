@@ -5,6 +5,8 @@ This is Postman's working area and list of project ideas for [Google Summer of C
 
 ## [Project Ideas](https://github.com/postman-open-technologies/gsoc-2023/issues?q=is%3Aissue+is%3Aopen+label%3Afinal+label%3Aideas)
 Here is a list of our 2023 project ideas:
+- [#15](https://github.com/postman-open-technologies/gsoc-2023/issues/15): **Bowtie and the World of JSON Schema**
+- [#16](https://github.com/postman-open-technologies/gsoc-2023/issues/16): **Data Transformation Utilities Using JSON Schemas**
 - [#9](https://github.com/postman-open-technologies/gsoc-2023/issues/9): **OpenAPI Componentizer**
 - [#6](https://github.com/postman-open-technologies/gsoc-2023/issues/6): **Schema.org OpenAPI Catalog**
 - [#7](https://github.com/postman-open-technologies/gsoc-2023/issues/7): **OpenAPI Web Search**
