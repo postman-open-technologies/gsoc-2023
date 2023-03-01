@@ -4,9 +4,9 @@ We're very happy that you consider contributing to our projects during Google Su
 
 **This repo ([gsoc-2023](https://github.com/postman-open-technologies/gsoc-2023)) is only for managing ideas and inform potential contributors. There will be no mandatory qualifying task in this repo, nor will any project development happen in here. Find the corresponding project repos by going to the [issues section](https://github.com/postman-open-technologies/gsoc-2023/issues?q=is%3Aissue+is%3Aopen+label%3Afinal+label%3Aideas), select the project you want to learn about or contribute to and follow the link to the repo in the description.**
 
-You can send an introductory message to the project's main mentor anytime before March 20.
+You introduce yourself to the project anytime before March 20 by answering the following questions on the selected [idea's thread](https://github.com/postman-open-technologies/gsoc-2023/issues?q=is%3Aissue+is%3Aopen+label%3Afinal+label%3Aideas).
 
-In your introduction, please include answers to the following questions:
+Make sure to answer these questions:
 
 - [ ] What interests you most about this project?
 - [ ] As mentors and project coordinators, how can we get the best out of you?
