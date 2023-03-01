@@ -19,7 +19,7 @@ Here is a list of our 2023 project ideas:
 - [#21](https://github.com/postman-open-technologies/gsoc-2023/issues/21): **AsyncAPI: Add help/{command} endpoint**
 
 ## Contributing
-PLease find detailed instructions on how to qualify for becoming a contributor during Google Summer of Code 2023 in our [CONTRIBUTOR_GUIDE.md](./CONTRIBUTOR_GUIDE.md).
+Please find detailed instructions on how to qualify for becoming a contributor during Google Summer of Code 2023 in our [CONTRIBUTOR_GUIDE.md](./blob/main/CONTRIBUTOR_GUIDANCE.md).
 
 ## OSS Projects with contributors in our org
 - **OpenAPI Initiative** — [@kinlane](https://github.com/kinlane), [@MikeRalphson](https://github.com/MikeRalphson), and [@arno-di-loreto](https://github.com/arno-di-loreto)
