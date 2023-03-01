@@ -25,7 +25,7 @@ Please find detailed instructions on how to qualify for becoming a contributor d
 - **OpenAPI Initiative** — [@kinlane](https://github.com/kinlane), [@MikeRalphson](https://github.com/MikeRalphson), and [@arno-di-loreto](https://github.com/arno-di-loreto)
 - **Collection Format** — [@Gbahdeyboh](https://github.com/Gbahdeyboh)
 - **AsyncAPI** — [@acethecreator](https://github.com/acethecreator), [@fmvilas](https://github.com/fmvilas), and [@derberg](https://github.com/derberg)
-- **JSON Schema** — [@Relequestual](https://github.com/Relequestual), [@gregsdennis](https://github.com/gregsdennis), and [@jdesrosiers](https://github.com/jdesrosiers)
+- **JSON Schema** — [@Relequestual](https://github.com/Relequestual), [@gregsdennis](https://github.com/gregsdennis), [@jdesrosiers](https://github.com/jdesrosiers), and [@Julian](https://github.com/Julian)
 
 ## Postman's Org Application
 
