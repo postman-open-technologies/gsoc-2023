@@ -20,8 +20,6 @@ This is Postman's working area and list of project ideas for [Google Summer of C
 
 ## [Project Ideas](https://github.com/postman-open-technologies/gsoc-2023/issues?q=is%3Aissue+is%3Aopen+label%3Afinal+label%3Aideas)
 Here is a list of our 2023 project ideas:
-- [#15](https://github.com/postman-open-technologies/gsoc-2023/issues/15): **Bowtie and the World of JSON Schema**
-- [#16](https://github.com/postman-open-technologies/gsoc-2023/issues/16): **Data Transformation Utilities Using JSON Schemas**
 - [#9](https://github.com/postman-open-technologies/gsoc-2023/issues/9): **OpenAPI Componentizer**
 - [#6](https://github.com/postman-open-technologies/gsoc-2023/issues/6): **Schema.org OpenAPI Catalog**
 - [#7](https://github.com/postman-open-technologies/gsoc-2023/issues/7): **OpenAPI Web Search**
@@ -32,6 +30,8 @@ Here is a list of our 2023 project ideas:
 - [#19](https://github.com/postman-open-technologies/gsoc-2023/issues/19): **AsyncAPI: Introduce UI tests and refactoring in the website**
 - [#20](https://github.com/postman-open-technologies/gsoc-2023/issues/20): **AsyncAPI: Add "Autofix" feature for common linting errors (w/ spectral)**
 - [#21](https://github.com/postman-open-technologies/gsoc-2023/issues/21): **AsyncAPI: Add `help/{command}` endpoint**
+- [#15](https://github.com/postman-open-technologies/gsoc-2023/issues/15): **Bowtie and the World of JSON Schema**
+- [#16](https://github.com/postman-open-technologies/gsoc-2023/issues/16): **Data Transformation Utilities Using JSON Schemas**
 
 ## Contributing
 Please find detailed instructions on how to qualify for becoming a contributor during Google Summer of Code 2023 in our [CONTRIBUTOR_GUIDANCE.md](https://github.com/postman-open-technologies/gsoc-2023/blob/main/CONTRIBUTOR_GUIDANCE.md).
