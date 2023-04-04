@@ -46,6 +46,10 @@ Please find detailed instructions on how to qualify for becoming a contributor d
 
 API Specifications form an essential foundation to the API ecosystem, securing standardization, governance and overall quality of products building on this ecosystem, as well as APIs that are products themselves. Postman applies to Google Summer of Code 2023 to represent and advocate for the Specifications that are not in a position to bring in sufficient resources for an individual application. [Postman's Open Technologies](https://blog.postman.com/announcing-postman-open-technologies/) as well as [Postman's OSPO](https://dev.to/postman/how-postmans-building-their-open-source-program-office-ospo-hgf) feel the strongest urge to raise our voice for the Open Source work that is being done in the API Specifications area, which is, similar to the API industry itself, still undervalued in its generally perceived impact on tech. [Read our blog](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/) to learn more.
 
+## A word on ChatGPT
+
+When writing your proposal **we encourage you to not use ChatGPT** or other AI tools. If you do so, we ask you to disclose the usage in your proposal. It doesn't automatically disqualify you, but we will take that usage into account when evaluating your application.
+
 ## Contact
 
 If you have any questions or queries, please [create an issue](https://github.com/postman-open-technologies/gsoc-2023/issues/new) on this repo (with a prefix GSoC 2023), start a topic on [our community forums in the GSoC category](https://community.postman.com/c/open-technology/gsoc/42) or send an email to us at gsoc@postman.com.
