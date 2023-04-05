@@ -12,7 +12,7 @@ This is Postman's working area and list of project ideas for [Google Summer of C
 | ~~Organization Application Deadline~~ | February 7, 2023 |
 | ~~Organizations Announced~~ | February 22, 2023 |
 | ~~Potential GSoC contributors discuss application ideas with mentoring organizations~~ | February 22 - March 20, 2023 |
-| **GSoC contributor application period** | March 20 - April 4, 2023 |
+| ~~GSoC contributor application period~~ | March 20 - April 4, 2023 |
 | Accepted GSoC Contributor projects announced | May 4, 2023 |
 | Contributors work on their Google Summer of Code projects | May 29, 2023 - August 28, 2023|
 | Mentors submit final GSoC contributor evaluations (standard coding period) | August 28, 2023 - September 4, 2023|
