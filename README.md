@@ -13,10 +13,10 @@ This is Postman's working area and list of project ideas for [Google Summer of C
 | ~~Organizations Announced~~ | February 22, 2023 |
 | ~~Potential GSoC contributors discuss application ideas with mentoring organizations~~ | February 22 - March 20, 2023 |
 | ~~GSoC contributor application period~~ | March 20 - April 4, 2023 |
-| Accepted GSoC Contributor projects announced | May 4, 2023 |
-| Contributors work on their Google Summer of Code projects | May 29, 2023 - August 28, 2023|
-| Mentors submit final GSoC contributor evaluations (standard coding period) | August 28, 2023 - September 4, 2023|
-| Initial results of Google Summer of Code 2023 announced | September 5, 2023 |
+| ~~Accepted GSoC Contributor projects announced~~ | May 4, 2023 |
+| ~~Contributors work on their Google Summer of Code projects~~ | May 29, 2023 - August 28, 2023|
+| ~~Mentors submit final GSoC contributor evaluations (standard coding period)~~ | August 28, 2023 - September 4, 2023|
+| ~~Initial results of Google Summer of Code 2023 announced~~ | September 5, 2023 |
 
 ## [Project Ideas](https://github.com/postman-open-technologies/gsoc-2023/issues?q=is%3Aissue+is%3Aopen+label%3Afinal+label%3Aideas)
 Here is a list of our 2023 project ideas:
